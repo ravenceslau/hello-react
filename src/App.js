@@ -1,3 +1,5 @@
+/* global location */
+/* eslint no-restricted-globals: ["off", "location"] */
 import React, { Component } from 'react'
 
 class Redirect extends Component {
